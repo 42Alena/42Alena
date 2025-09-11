@@ -7,45 +7,6 @@
   </a>
   <a href="https://www.linkedin.com/in/alena-kurmyza">
     <img src="https://img.shields.io/badge/LinkedIn-alena--kurmyza-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alenakurmyza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=42Alena&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <!-- Section navigation (pseudo-toolbar) -->
-  <a href="#alena-kurmyza">👋 About</a> •
-  <a href="#what-i-build-️">⚙️ What I Build</a> •
-  <a href="#selected-projects-">📂 Projects</a> •
-  <a href="#my-toolbox-️">🛠️ Toolbox</a> •
-  <a href="#school-42-">🎓 School 42</a> •
-  <a href="#contact-">📬 Contact</a>
-</p>
-
----
-
-# Alena Kurmyza
-
-**Junior Software Engineer – Systems · Networking · Web**  
-_Berlin-based · EU citizen · open to opportunities across Europe_  
-**👉 Actively seeking junior roles (C/C++/Backend/Infra)**
-
-<!-- START -->
-
-<p align="center">
-  <!-- Top toolbar (badges) -->
-  <a href="https://github.com/42Alena">
-    <img src="https://img.shields.io/badge/GitHub-42Alena-black?logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/alena-kurmyza">
-    <img src="https://img.shields.io/badge/LinkedIn-alena--kurmyza-blue?logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:alenakurmyza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=42Alena&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -115,7 +76,7 @@ Dockerized stack: **Nginx** reverse proxy, **MariaDB**, **WordPress** in isolate
 Infrastructure-as-learning: compose networks, named volumes, healthchecks, and clean Makefile targets for dev vs. evaluation environments.
 </details>
 
-**[ft_transcendence]([https://github.com/42Alena/ft_transcendence](https://github.com/42Alena/ft_transcendence-ping-pong-website))**  
+**[ft_transcendence](https://github.com/42Alena/ft_transcendence)**  
 Real-time Pong-style web app (multiplayer, auth, live chat) using Fastify, Socket.IO, SQLite, Tailwind.  
 *Skills:* Node.js · TypeScript · WebSockets · Full-stack
 
@@ -160,7 +121,7 @@ This environment shaped my habits: read specs carefully, design before coding, t
 - 🎤 Regular attendee of IT conferences & meetups  
 - 🌐 **English (fluent)** · **German (advanced)**  
 - 🛂 **EU work permit** — open to onsite/hybrid/remote across Europe  
-- ⚡ Balance: deep work, cycling, travel, long walks
+- ⚡ Balance: deep work, cycling, sauna, long walks
 
 ---
 
