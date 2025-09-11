@@ -40,7 +40,7 @@ I connect the **low-level world of systems programming** with the **human-facing
 
 ## Selected Projects 📂
 
-**[Bash-Style Mini-Shell](https://github.com/42Alena/bash-style-minishell)**  
+**[Bash-Style Mini-Shell in C (Parser, Executor, Signals, History)](https://github.com/42Alena/bash-style-minishell)**  
 Bash-like shell in C: parsing, execution, pipes, redirections, signals, command history.  
 *Skills:* C · POSIX · Processes · Parsing
 
@@ -49,7 +49,7 @@ Bash-like shell in C: parsing, execution, pipes, redirections, signals, command 
 Built around a robust parser and process control with signals, job-like behavior, and careful error handling. Emphasis on POSIX compliance and readable code structure.
 </details>
 
-**[Cub3D](https://github.com/42Alena/CUB3D)**  
+**[Wolfenstein-Style 3D Game Engine in C (Raycasting)](https://github.com/42Alena/CUB3D)**  
 Wolfenstein-style 3D raycaster: map parsing, texture mapping, real-time input.  
 *Skills:* C · Graphics · Algorithms · Event loop
 
@@ -58,7 +58,7 @@ Wolfenstein-style 3D raycaster: map parsing, texture mapping, real-time input.
 Implemented a classic raycasting pipeline, keyboard event loop, and texture mapping optimizations. Focus on deterministic behavior and frame-time stability.
 </details>
 
-**[IRC Server](https://github.com/42Alena/irc-server)**  
+**[IRC-Style Real-Time Chat Server (C++98, Sockets, poll)](https://github.com/42Alena/irc-server)**  
 IRC server in **C++98** on a single `poll()` loop: multi-client I/O, channels, operators, core commands.  
 *Skills:* C++98 · Sockets · Networking · Event-driven design
 
@@ -67,7 +67,7 @@ IRC server in **C++98** on a single `poll()` loop: multi-client I/O, channels, o
 Non-blocking sockets, per-client state machine, RFC-inspired command parsing, robust cleanup on disconnect, and channel permission model (ops, invites, topics).
 </details>
 
-**[Inception](https://github.com/42Alena/inception)**  
+**[Dockerized Web Infrastructure – Nginx, MariaDB, WordPress](https://github.com/42Alena/inception)**  
 Dockerized stack: **Nginx** reverse proxy, **MariaDB**, **WordPress** in isolated containers.  
 *Skills:* Docker · Nginx · MariaDB · Linux
 
@@ -76,7 +76,7 @@ Dockerized stack: **Nginx** reverse proxy, **MariaDB**, **WordPress** in isolate
 Infrastructure-as-learning: compose networks, named volumes, healthchecks, and clean Makefile targets for dev vs. evaluation environments.
 </details>
 
-**[ft_transcendence]([https://github.com/42Alena/ft_transcendence](https://github.com/42Alena/ft_transcendence-ping-pong-website)**  
+**[Real-time Pong Web App – Multiplayer, Auth, Live Chat](https://github.com/42Alena/ft_transcendence-ping-pong-website)**  
 Real-time Pong-style web app (multiplayer, auth, live chat) using Fastify, Socket.IO, SQLite, Tailwind.  
 *Skills:* Node.js · TypeScript · WebSockets · Full-stack
 
