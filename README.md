@@ -49,7 +49,7 @@ Bash-like shell in C: parsing, execution, pipes, redirections, signals, command 
 Built around a robust parser and process control with signals, job-like behavior, and careful error handling. Emphasis on POSIX compliance and readable code structure.
 </details>
 
-**[Wolfenstein-Style 3D Game Engine in C (Raycasting)](https://github.com/42Alena/CUB3D)**  
+**[Wolfenstein-Style 3D Game Engine in C (Raycasting)](https://github.com/42Alena/CUB3D)**   
 Wolfenstein-style 3D raycaster: map parsing, texture mapping, real-time input.  
 *Skills:* C · Graphics · Algorithms · Event loop
 
