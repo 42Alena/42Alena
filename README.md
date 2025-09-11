@@ -76,7 +76,7 @@ Dockerized stack: **Nginx** reverse proxy, **MariaDB**, **WordPress** in isolate
 Infrastructure-as-learning: compose networks, named volumes, healthchecks, and clean Makefile targets for dev vs. evaluation environments.
 </details>
 
-**[ft_transcendence]([https://github.com/42Alena/ft_transcendence](https://github.com/42Alena/ft_transcendence-ping-pong-website))**  
+**[ft_transcendence]([https://github.com/42Alena/ft_transcendence](https://github.com/42Alena/ft_transcendence-ping-pong-website)**  
 Real-time Pong-style web app (multiplayer, auth, live chat) using Fastify, Socket.IO, SQLite, Tailwind.  
 *Skills:* Node.js · TypeScript · WebSockets · Full-stack
 
