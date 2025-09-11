@@ -67,7 +67,7 @@ IRC server in **C++98** on a single `poll()` loop: multi-client I/O, channels, o
 Non-blocking sockets, per-client state machine, RFC-inspired command parsing, robust cleanup on disconnect, and channel permission model (ops, invites, topics).
 </details>
 
-**[Dockerized Web Infrastructure – Nginx, MariaDB, WordPress](https://github.com/42Alena/inception)**  
+**[Dockerized Web Infrastructure – Nginx, MariaDB, WordPress](https://github.com/42Alena/docker-web-infra)**  
 Dockerized stack: **Nginx** reverse proxy, **MariaDB**, **WordPress** in isolated containers.  
 *Skills:* Docker · Nginx · MariaDB · Linux
 
