@@ -23,9 +23,9 @@
 
 # Alena Kurmyza
 
-**Junior Software Engineer – Systems · Networking · Web**  
-_Berlin-based · EU citizen · open to opportunities across Europe_  
-**👉 Actively seeking junior roles (C/C++/Backend/Infra)**
+Software & Backend Engineer — C/C++, Linux, TypeScript, Fastify, Docker
+EU-based · Open to backend or system-level roles across Europe
+🚀 Actively looking for full-time software engineering opportunities
 
 
 ## What I Build ⚙️
