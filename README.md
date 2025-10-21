@@ -38,62 +38,82 @@ I connect the **low-level world of systems programming** with the **human-facing
 
 ---
 
-## Selected Projects 📂
+### 🎮 Current Project
 
-**[Bash-Style Mini-Shell in C (Parser, Executor, Signals, History)](https://github.com/42Alena/bash-style-minishell)**  
-Bash-like shell in C: parsing, execution, pipes, redirections, signals, command history.  
-*Skills:* C · POSIX · Processes · Parsing
-
-<details>
-<summary>More notes</summary>
-Built around a robust parser and process control with signals, job-like behavior, and careful error handling. Emphasis on POSIX compliance and readable code structure.
-</details>
-
-**[Wolfenstein-Style 3D Game Engine in C (Raycasting)](https://github.com/42Alena/CUB3D)**   
-Wolfenstein-style 3D raycaster: map parsing, texture mapping, real-time input.  
-*Skills:* C · Graphics · Algorithms · Event loop
+**[Real-Time Pong Web App – Multiplayer · Auth · Live Chat](https://github.com/42Alena/ft_transcendence-ping-pong-website)**
+Full-stack real-time Pong-style web app built from scratch for **42 Berlin’s final project**.
+Features multiplayer gameplay, user authentication, and integrated live chat.
+*Tech stack:* **Node.js (Fastify)** · **TypeScript** · **Socket.IO** · **SQLite** · **Tailwind CSS** · **Docker**
 
 <details>
 <summary>More notes</summary>
-Implemented a classic raycasting pipeline, keyboard event loop, and texture mapping optimizations. Focus on deterministic behavior and frame-time stability.
-</details>
-
-**[IRC-Style Real-Time Chat Server (C++98, Sockets, poll)](https://github.com/42Alena/irc-server)**  
-IRC server in **C++98** on a single `poll()` loop: multi-client I/O, channels, operators, core commands.  
-*Skills:* C++98 · Sockets · Networking · Event-driven design
-
-<details>
-<summary>More notes</summary>
-Non-blocking sockets, per-client state machine, RFC-inspired command parsing, robust cleanup on disconnect, and channel permission model (ops, invites, topics).
-</details>
-
-**[Dockerized Web Infrastructure – Nginx, MariaDB, WordPress](https://github.com/42Alena/docker-web-infra)**  
-Dockerized stack: **Nginx** reverse proxy, **MariaDB**, **WordPress** in isolated containers.  
-*Skills:* Docker · Nginx · MariaDB · Linux
-
-<details>
-<summary>More notes</summary>
-Infrastructure-as-learning: compose networks, named volumes, healthchecks, and clean Makefile targets for dev vs. evaluation environments.
-</details>
-
-**[Real-time Pong Web App – Multiplayer, Auth, Live Chat](https://github.com/42Alena/ft_transcendence-ping-pong-website)**  
-Real-time Pong-style web app (multiplayer, auth, live chat) using Fastify, Socket.IO, SQLite, Tailwind.  
-*Skills:* Node.js · TypeScript · WebSockets · Full-stack
-
-<details>
-<summary>More notes</summary>
-Auth + sessions, WebSocket rooms, latency-aware game loop, lightweight DB schema, and UI built with Tailwind components for rapid iteration.
+Auth + sessions, WebSocket rooms, latency-aware game loop, lightweight DB schema, and UI built with reusable Tailwind components for rapid iteration.
 </details>
 
 ---
 
-## My Toolbox 🛠️
+### 🖥️ Completed
 
-**Languages:** C, C++98, TypeScript, Python (beginner)  
-**Systems:** Linux, POSIX, TCP/IP, sockets, poll-based I/O  
-**Web:** Node.js, Fastify, SQLite, Tailwind CSS, REST APIs, WebSockets  
-**DevOps:** Docker, Nginx, MariaDB, Git, Makefiles  
-**Core concepts:** Event-driven design, client-server architecture, parsing, algorithms
+**[Bash-Style Mini-Shell in C (Parser · Executor · Signals · History)](https://github.com/42Alena/bash-style-minishell)**
+Bash-like shell implementing parsing, process execution, pipes, redirections, and signal handling.
+*Tech stack:* **C** · **POSIX** · **Processes** · **Parsing**
+
+<details>
+<summary>More notes</summary>
+Robust parser and process control with signal management, job-like behavior, and consistent error handling.  
+Focus on POSIX compliance and maintainable code structure.
+</details>
+
+---
+
+**[Wolfenstein-Style 3D Game Engine in C (Raycasting)](https://github.com/42Alena/CUB3D)**
+Wolfenstein-inspired 3D raycaster featuring map parsing, texture mapping, and real-time keyboard input.
+*Tech stack:* **C** · **Graphics** · **Algorithms** · **Event Loop**
+
+<details>
+<summary>More notes</summary>
+Implemented a full raycasting pipeline, event loop, and texture mapping optimizations.  
+Emphasis on deterministic frame timing and clean graphics logic.
+</details>
+
+---
+
+**[IRC-Style Real-Time Chat Server (C++98, Sockets, poll)](https://github.com/42Alena/irc-server)**
+IRC-compatible chat server in **C++98** built around a single `poll()`-based event loop.
+Handles multiple clients, channels, operators, and core IRC commands.
+*Tech stack:* **C++98** · **Sockets** · **Networking** · **Event-Driven Design**
+
+<details>
+<summary>More notes</summary>
+Non-blocking sockets with per-client state machines, RFC-style command parsing, robust cleanup on disconnects, and role-based channel permissions.
+</details>
+
+---
+
+**[Dockerized Web Infrastructure – Nginx · MariaDB · WordPress](https://github.com/42Alena/docker-web-infra)**
+Containerized web stack using **Nginx**, **MariaDB**, and **WordPress** with isolated services.
+*Tech stack:* **Docker** · **Nginx** · **MariaDB** · **Linux**
+
+<details>
+<summary>More notes</summary>
+Infrastructure-as-learning project with Compose networks, named volumes, healthchecks, and automated Makefile targets for dev / evaluation environments.
+</details>
+
+---
+
+## 🧰 My Toolbox
+
+**Languages:** C · C++98 · TypeScript · Bash · Python *(beginner)*
+**Systems:** Linux · POSIX · TCP/IP · Non-blocking sockets · `poll()` event loop
+**Web & Backend:** Node.js (Fastify) · REST APIs · WebSockets (Socket.IO) · SQLite · JWT · 2FA
+**Frontend & UI:** TypeScript SPA · Tailwind CSS · Real-time UI updates
+**DevOps & Tools:** Docker · Nginx · MariaDB · Git · Makefiles · `.env` management
+**Core Concepts:** Event-driven architecture · Client-server systems · Authentication · Parsing · Algorithms · Debugging
+
+---
+
+Would you like me to make a **shorter LinkedIn-ready** version next (2–3 lines, emoji style, optimized for scanning)?
+
 
 <p>
   <!-- Tech badges row (optional eye-candy) -->
