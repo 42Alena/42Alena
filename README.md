@@ -112,9 +112,6 @@ Infrastructure-as-learning project with Compose networks, named volumes, healthc
 
 ---
 
-Would you like me to make a **shorter LinkedIn-ready** version next (2–3 lines, emoji style, optimized for scanning)?
-
-
 <p>
   <!-- Tech badges row (optional eye-candy) -->
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
